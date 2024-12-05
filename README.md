@@ -1,6 +1,6 @@
 ![Web Developer](https://scontent.fcgp27-1.fna.fbcdn.net/v/t39.30808-6/469212200_600663342410279_2249817199922998569_n.png?_nc_cat=105&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeFZ_O4fQ0vfi-XzzNMEaNgvdxSF29FgseZ3FIXb0WCx5iPmBxpHVHNNX83TZGupQtu8C3cCigZaN2XwUWGc_tD7&_nc_ohc=od7lHt3aGHcQ7kNvgHoOpuy&_nc_zt=23&_nc_ht=scontent.fcgp27-1.fna&_nc_gid=ARzwi-d0E4IdI3jKD_E4qcY&oh=00_AYCwILAT_CmlI-GloS3ihk6k6MgRkzaZX174mshwvhkMHw&oe=675793A8)
 
-### Hi there 👋, I'm Walid Abdullah
+### Hi, I'm Walid Abdullah
 #### Web Developer
 
 
